@@ -1,1 +1,1 @@
-diffusionn文件夹与policy.py在同一目录下
+替换policy.py并将diffusionn文件夹放置在与policy.py在同一目录下

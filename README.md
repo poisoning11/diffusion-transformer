@@ -1,0 +1,1 @@
+diffusionn文件夹与policy.py在同一目录下
